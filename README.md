@@ -18,3 +18,5 @@ Si typings no aparece, ejecute:
 # Ejecución
 
 `npm start`
+
+Basado en [la documentación oficial de Angular 2](https://angular.io/docs/ts/latest/quickstart.html)
